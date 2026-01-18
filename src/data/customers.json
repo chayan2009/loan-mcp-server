@@ -1,0 +1,27 @@
+[
+    {
+      "userId": "U101",
+      "name": "Rahul",
+      "monthlyIncome": 50000,
+      "existingEMI": 12000,
+      "creditScore": 740,
+      "deviceRisk": 0.1
+    },
+    {
+      "userId": "U102",
+      "name": "Amit",
+      "monthlyIncome": 30000,
+      "existingEMI": 18000,
+      "creditScore": 620,
+      "deviceRisk": 0.6
+    },
+    {
+      "userId": "U103",
+      "name": "Ankit",
+      "monthlyIncome": 25000,
+      "existingEMI": 15000,
+      "creditScore": 590,
+      "deviceRisk": 0.8
+    }
+  ]
+  
